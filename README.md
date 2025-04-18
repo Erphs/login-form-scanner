@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+
 # Login Form Scanner
 
 This Python script is designed to scan web pages for login forms. It detects potential login forms by identifying forms that contain password input fields and outputs details about each form it finds on the page.
